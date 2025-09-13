@@ -1,6 +1,6 @@
 ## gitschnauzer
 <html>
-    <img src="Schznauzerpic.png" width="400">
+    <img src="Schznauzerpic.png" width='400'>
 </html>
 
 ## Data Engineering Respository
