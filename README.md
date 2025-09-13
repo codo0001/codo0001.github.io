@@ -1,5 +1,3 @@
-<title>Stephen's Portfolio</title>
-
 ## Stephen's Main Portfolio Page
 
 ## gitschnauzer
